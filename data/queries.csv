@@ -1,0 +1,201 @@
+query_id,category,query
+Q001,alt.atheism,atheism belief existence of god arguments
+Q002,alt.atheism,morality without god religion secular ethics
+Q003,alt.atheism,christianity vs atheism debate evidence
+Q004,alt.atheism,bible contradictions historical accuracy critique
+Q005,alt.atheism,freedom of religion secularism state society
+Q006,alt.atheism,theism agnosticism philosophical reasoning
+Q007,alt.atheism,religious intolerance free speech skepticism
+Q008,alt.atheism,origin of universe creationism evolution debate
+Q009,alt.atheism,meaning of life without divine creator
+Q010,alt.atheism,church state separation constitutional rights
+Q011,comp.graphics,computer graphics 3d rendering software algorithms
+Q012,comp.graphics,ray tracing lighting polygon shading technique
+Q013,comp.graphics,image processing file formats jpeg tiff gif
+Q014,comp.graphics,virtual reality graphics pipeline rendering engine
+Q015,comp.graphics,opengl graphics library 3d animation tools
+Q016,comp.graphics,texture mapping bump mapping surface rendering
+Q017,comp.graphics,color space rgb hsv conversion algorithms
+Q018,comp.graphics,vector graphics rasterization algorithms
+Q019,comp.graphics,gpu acceleration 3d graphics rendering performance
+Q020,comp.graphics,bezier curves splines 3d surface modeling
+Q021,comp.os.ms-windows.misc,windows 3.1 installation setup device drivers
+Q022,comp.os.ms-windows.misc,ms-dos system configuration config.sys autoexec.bat
+Q023,comp.os.ms-windows.misc,microsoft windows memory management swap file
+Q024,comp.os.ms-windows.misc,windows graphics device interface gdi print drivers
+Q025,comp.os.ms-windows.misc,windows fonts truetype installation troubleshooting
+Q026,comp.os.ms-windows.misc,windows file manager disk partitioning format
+Q027,comp.os.ms-windows.misc,microsoft windows dynamic link library dll error
+Q028,comp.os.ms-windows.misc,windows 3.1 win32s extension compatibility
+Q029,comp.os.ms-windows.misc,windows networking tcp ip protocol setup
+Q030,comp.os.ms-windows.misc,windows crash blue screen fatal exception fix
+Q031,comp.sys.ibm.pc.hardware,ibm pc motherboard isa vesa bus controller
+Q032,comp.sys.ibm.pc.hardware,ide scsi hard drive controller installation
+Q033,comp.sys.ibm.pc.hardware,intel 486 processor CPU clock speed upgrade
+Q034,comp.sys.ibm.pc.hardware,pc memory ram simm cache chip installation
+Q035,comp.sys.ibm.pc.hardware,vga graphics card monitor resolution setup
+Q036,comp.sys.ibm.pc.hardware,sound blaster audio card irq dma conflict
+Q037,comp.sys.ibm.pc.hardware,bios setup CMOS battery motherboard jumper
+Q038,comp.sys.ibm.pc.hardware,floppy drive 1.44mb controller cable setup
+Q039,comp.sys.ibm.pc.hardware,pc power supply unit wattage cooling fan
+Q040,comp.sys.ibm.pc.hardware,modem serial port uart 16550 baud rate setup
+Q041,comp.sys.mac.hardware,apple macintosh quadra centris bus architecture
+Q042,comp.sys.mac.hardware,mac scsi hard drive termination cabling setup
+Q043,comp.sys.mac.hardware,macintosh powerbook battery memory upgrade
+Q044,comp.sys.mac.hardware,apple mac monitor resolution adapter display
+Q045,comp.sys.mac.hardware,macintosh system 7 operating system memory management
+Q046,comp.sys.mac.hardware,macintosh keyboard ADB mouse port troubleshooting
+Q047,comp.sys.mac.hardware,apple laserwriter printer postscript networking
+Q048,comp.sys.mac.hardware,macintosh motherboards motorola 68040 processor
+Q049,comp.sys.mac.hardware,mac superdrive floppy disk read write error
+Q050,comp.sys.mac.hardware,macintosh external hard drive scsi ID conflict
+Q051,comp.windows.x,x window system x11 server client architecture
+Q052,comp.windows.x,motif window manager toolkit widget library
+Q053,comp.windows.x,xlib programming window creation event loop
+Q054,comp.windows.x,x11 font server display setup display environment
+Q055,comp.windows.x,xterm terminal emulator configuration resources
+Q056,comp.windows.x,x11 visual depth color map allocation
+Q057,comp.windows.x,open look vs motif window manager design
+Q058,comp.windows.x,x11 client authorization xhost xauth security
+Q059,comp.windows.x,x11 pixel map pixmap bitblt rendering
+Q060,comp.windows.x,x11 keycodes keysyms keyboard event mapping
+Q061,misc.forsale,for sale used computer hardware desktop tower
+Q062,misc.forsale,selling audio stereo speakers receiver amplifier
+Q063,misc.forsale,for sale mountain bike bicycle excellent condition
+Q064,misc.forsale,selling cellular phone wireless pager accessories
+Q065,misc.forsale,for sale video game console games cartridges
+Q066,misc.forsale,selling car vehicle low mileage clean title
+Q067,misc.forsale,for sale camera lens photo equipment tripod
+Q068,misc.forsale,selling musical instrument guitar amplifier case
+Q069,misc.forsale,for sale textbook computer science engineering
+Q070,misc.forsale,selling CD player compact discs music collection
+Q071,rec.autos,car engine oil change transmission fluid maintenance
+Q072,rec.autos,ford mustang vs chevrolet camaro v8 performance
+Q073,rec.autos,car brake system pads rotors ABS troubleshooting
+Q074,rec.autos,tire pressure alignment tread wear suspension
+Q075,rec.autos,manual transmission clutch replacement shifting gear
+Q076,rec.autos,car radiator cooling system thermostat water pump
+Q077,rec.autos,fuel injection intake manifold carburetor tuning
+Q078,rec.autos,car battery alternator electrical system failure
+Q079,rec.autos,sports car acceleration handling lap time comparison
+Q080,rec.autos,car insurance rates safety crash test rating
+Q081,rec.motorcycles,motorcycle engine oil filter spark plug maintenance
+Q082,rec.motorcycles,honda vs yamaha street bike performance handling
+Q083,rec.motorcycles,riding helmet leather jacket safety gear armor
+Q084,rec.motorcycles,motorcycle chain sprocket drive belt adjustment
+Q085,rec.motorcycles,dirt bike off road trail riding suspension
+Q086,rec.motorcycles,motorcycle brake fluid lever pads bleeding system
+Q087,rec.motorcycles,harley davidson cruiser exhaust sound custom bike
+Q088,rec.motorcycles,motorcycle countersteering cornering technique curve
+Q089,rec.motorcycles,motorcycle battery charging system stator regulator
+Q090,rec.motorcycles,touring motorcycle windshield saddlebags long distance
+Q091,rec.sport.baseball,major league baseball world series championship game
+Q092,rec.sport.baseball,pitcher earned run average ERA strikeouts fastball
+Q093,rec.sport.baseball,home run hit RBI batting average grand slam
+Q094,rec.sport.baseball,baseball playoff standings division pennant race
+Q095,rec.sport.baseball,catcher umpire strike zone pitch count calling
+Q096,rec.sport.baseball,baseball team roster trade contract free agent
+Q097,rec.sport.baseball,boston red sox vs new york yankees rivalry
+Q098,rec.sport.baseball,baseball stadium outfield fence field dimensions
+Q099,rec.sport.baseball,designated hitter rule batting lineup strategy
+Q100,rec.sport.baseball,hall of fame baseball player statistics record
+Q101,rec.sport.hockey,national hockey league nhl stanley cup playoffs
+Q102,rec.sport.hockey,hockey goal penalty power play short handed goal
+Q103,rec.sport.hockey,ice hockey goalie save percentage shutout mask
+Q104,rec.sport.hockey,hockey player slap shot wrist shot goal scoring
+Q105,rec.sport.hockey,montreal canadines vs toronto maple leafs nhl
+Q106,rec.sport.hockey,hockey team standings division playoffs finals
+Q107,rec.sport.hockey,hockey referee penalty box slashing high sticking
+Q108,rec.sport.hockey,hockey puck ice rink skates blade sharpening
+Q109,rec.sport.hockey,hockey team roster trade draft picks contract
+Q110,rec.sport.hockey,nhl commissioner player strike lock out season
+Q111,sci.crypt,public key cryptography RSA algorithm encryption
+Q112,sci.crypt,data encryption standard DES key length security
+Q113,sci.crypt,clipper chip escrow encryption privacy government
+Q114,sci.crypt,cryptographic hash function MD5 sha digital signature
+Q115,sci.crypt,pretty good privacy PGP encryption key exchange
+Q116,sci.crypt,cipher text plain text secret key decipher
+Q117,sci.crypt,cryptanalysis frequency attack code breaking cipher
+Q118,sci.crypt,crypto privacy wiretap law communications security
+Q119,sci.crypt,random number generator key generation entropy
+Q120,sci.crypt,zero knowledge proof cryptographic protocol authentication
+Q121,sci.electronics,printed circuit board pcb design soldering components
+Q122,sci.electronics,operational amplifier op-amp circuit resistor capacitor
+Q123,sci.electronics,integrated circuit IC pinout voltage regulator
+Q124,sci.electronics,digital logic gates ttl cmos microcontrollers
+Q125,sci.electronics,oscilloscope signal generator voltage measurement test
+Q126,sci.electronics,power supply transformer rectifier filter capacitor
+Q127,sci.electronics,rf radio frequency transmitter antenna impedance matching
+Q128,sci.electronics,semiconductor diode transistor switching circuit
+Q129,sci.electronics,audio amplifier schematic circuit distortion power
+Q130,sci.electronics,microprocessor bus interface clock crystal oscillator
+Q131,sci.med,medical diagnosis symptoms treatment disease pathology
+Q132,sci.med,prescription medication drug side effects dosage
+Q133,sci.med,diet nutrition vitamin deficiency health benefits
+Q134,sci.med,cancer treatment chemotherapy radiation therapy oncology
+Q135,sci.med,heart disease blood pressure cholesterol cardiovascular
+Q136,sci.med,infectious disease virus bacteria immune system response
+Q137,sci.med,neurology brain disease memory loss nerve disorder
+Q138,sci.med,medical study clinical trials research medical journal
+Q139,sci.med,surgery operation anesthesia surgeon patient recovery
+Q140,sci.med,allergy allergic reaction histamine immune response
+Q141,sci.space,NASA space shuttle launch orbit mission payload
+Q142,sci.space,satellite orbit gravity payload launch vehicle trajectory
+Q143,sci.space,space station hubble space telescope astronomy observation
+Q144,sci.space,lunar moon landing mission Apollo program surface
+Q145,sci.space,mars rover exploration planet surface space probe
+Q146,sci.space,rocket propulsion liquid fuel engine thrust ISP
+Q147,sci.space,solar system planets astronomy orbit galaxy universe
+Q148,sci.space,commercial space launch vehicle rocket satellite
+Q149,sci.space,deep space exploration radio telescope SETI search
+Q150,sci.space,zero gravity microgravity space environment astronaut
+Q151,soc.religion.christian,christian doctrine bible scripture new testament gospel
+Q152,soc.religion.christian,jesus christ resurrection salvation faith grace god
+Q153,soc.religion.christian,christian church history theology sacraments prayer
+Q154,soc.religion.christian,old testament biblical prophecy law covenants god
+Q155,soc.religion.christian,holy spirit trinity father son christian faith
+Q156,soc.religion.christian,christian morality sin forgiveness redemption bible
+Q157,soc.religion.christian,catholic vs protestant theology church tradition
+Q158,soc.religion.christian,christian worship hymn sermon fellowship congregation
+Q159,soc.religion.christian,heaven hell eternal life judgment christian view
+Q160,soc.religion.christian,apostolic succession church fathers early christianity
+Q161,talk.politics.guns,second amendment right to bear arms constitutional law
+Q162,talk.politics.guns,gun control legislation assault weapon ban crime
+Q163,talk.politics.guns,firearms safety handguns rifles concealed carry permit
+Q164,talk.politics.guns,national rifle association NRA gun rights lobby
+Q165,talk.politics.guns,atf federal firearms license background checks
+Q166,talk.politics.guns,self defense firearm armed citizen crime prevention
+Q167,talk.politics.guns,gun violence homicide rate statistics firearm law
+Q168,talk.politics.guns,automatic weapons semi automatic rifle registration
+Q169,talk.politics.guns,firearm ammunition caliber bullet ballistic trajectory
+Q170,talk.politics.guns,supreme court gun law constitutional interpretation
+Q171,talk.politics.mideast,middle east peace process israel palestine conflict
+Q172,talk.politics.mideast,arab israeli war territory borders treaty UN
+Q173,talk.politics.mideast,jerusalem west bank gaza strip peace negotiations
+Q174,talk.politics.mideast,jewish homeland zionism palestinian statehood rights
+Q175,talk.politics.mideast,middle east foreign policy international relations US
+Q176,talk.politics.mideast,lebanon syria jordan diplomatic conflict diplomacy
+Q177,talk.politics.mideast,middle east refugee crisis human rights international law
+Q178,talk.politics.mideast,middle east military defense armed forces security
+Q179,talk.politics.mideast,historical roots middle east conflict history treaty
+Q180,talk.politics.mideast,islamic state middle east governance politics society
+Q181,talk.politics.misc,government policy taxation federal budget economic growth
+Q182,talk.politics.misc,libertarian freedom individual rights state power
+Q183,talk.politics.misc,presidential election congress political party campaign
+Q184,talk.politics.misc,freedom of speech civil liberties constitution rights
+Q185,talk.politics.misc,welfare state social security government entitlement
+Q186,talk.politics.misc,foreign policy military defense international trade
+Q187,talk.politics.misc,health care reform government regulations economy
+Q188,talk.politics.misc,political corruption lobbyist campaign finance reform
+Q189,talk.politics.misc,federal reserve interest rates inflation economic policy
+Q190,talk.politics.misc,supreme court constitutional interpretation federal law
+Q191,talk.religion.misc,world religions comparative theology belief systems
+Q192,talk.religion.misc,religious cults new age philosophy spiritual practice
+Q193,talk.religion.misc,buddhism hinduism islam christianity comparative faith
+Q194,talk.religion.misc,religious freedom tolerance blasphemy morality state
+Q195,talk.religion.misc,theology nature of god divine revelation faith
+Q196,talk.religion.misc,paganism occult esotericism ancient religion history
+Q197,talk.religion.misc,mysticism spiritual experience consciousness meditation
+Q198,talk.religion.misc,morality secular humanism religious ethics comparison
+Q199,talk.religion.misc,sacred texts scripture interpretation comparative religion
+Q200,talk.religion.misc,origin of evil suffering divine justice theology
